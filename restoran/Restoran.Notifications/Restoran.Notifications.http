@@ -1,0 +1,6 @@
+@Restoran.Notifications_HostAddress = http://localhost:5047
+
+GET {{Restoran.Notifications_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
